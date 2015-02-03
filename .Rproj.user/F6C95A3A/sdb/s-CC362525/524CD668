@@ -1,0 +1,16 @@
+{
+    "contents" : "dfC <- data.frame(eval(parse(text=substring(getURL(URLencode('http://129.152.144.84:5001/rest/native/?query=\"select * from customers\"'), httpheader=c(DB='jdbc:oracle:thin:@129.152.144.84:1521/PDB1.usuniversi01134.oraclecloud.internal', USER='DV_ORDERS', PASS='orcl', MODE='native_mode', MODEL='model', returnFor = 'R', returnDimensions = 'False'), verbose = TRUE), 1, 2^31-1))))\n",
+    "created" : 1423005717315.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1614024805",
+    "id" : "524CD668",
+    "lastKnownWriteTime" : 1423005947,
+    "path" : "/Volumes/HDD/DataVisualization/DV_RProject1/01 Data/customer_data_frame.R",
+    "project_path" : "01 Data/customer_data_frame.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
